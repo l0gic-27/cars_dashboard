@@ -1,9 +1,9 @@
 ![Screenshot 2024-08-20 112518](https://github.com/user-attachments/assets/5c80a267-c43e-4a10-92af-fd3142e9634c)
 
 # cars_dashboard
-The dashboard above highlights trends in average selling prices for various car brands from 1994 to 2020.
 
-Insights:
+
+Key Insights For My Dashboard:
 
 1. Difference in prices between petrol and diesel cars:
 
