@@ -5,14 +5,15 @@ The dashboard above highlights trends in average selling prices for various car 
 
 Insights:
 
-1. Trend in Average Selling Price by Car Brands (1994-2020):
+1. Difference in prices between petrol and diesel cars:
 
-There is a noticeable increase in the average selling price across almost all brands starting from the early 2010s. This suggests a general rise in car prices, possibly due to advancements in technology, added features, or inflation. Some brands, such as BMW and Mercedes-Benz, show a sharper increase in average selling prices compared to others, indicating a focus on premium, high-cost models.
+The diesel cars are very varying this is because diesel gives more mileage per litre than of the petrol vehicles.
 
-2. Average Selling Price by Brand:
+2. Average number of owners by Brand:
 
-Lexus, Land Rover, and Jaguar are among the brands with the highest average selling prices, suggesting these brands are positioned in the luxury market. Maruti, Hyundai, and Tata have relatively lower average selling prices, which could indicate their strong presence in the mass-market segment, targeting budget-conscious consumers.
+Maruti, Mahindra, Tata, Hyundai are the companies with the most number of owners as they more trusted and efficient.
 
-3. Average Selling Price by Brand and Transmission Type:
+3. Count of engines based on the car brands:
 
-The chart shows that for most brands, cars with automatic transmissions have a higher average selling price compared to manual transmissions. This reflects the higher cost associated with automatic technology and possibly consumer preference for convenience. Brands like Lexus, Mercedes-Benz, and BMW have the most significant difference between automatic and manual transmission prices, further emphasizing their luxury market positioning.
+The bar chart shows the count of engines for each car brand and the total for each brand.
+The table also shows the grand total for each fuel type and each brand.
